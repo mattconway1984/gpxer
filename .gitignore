@@ -1,0 +1,5 @@
+gpxer.egg-info
+*.pyc
+*.gpx
+build/
+dist/
